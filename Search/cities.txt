@@ -1,0 +1,6 @@
+pune 32                                         solapur 35
+mumbai 36
+navimumbai 38
+yavatmal 65
+Aurangabad 45
+Pimpri 70
